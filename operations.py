@@ -1,7 +1,10 @@
-num = 10
-if num > 0:
-    print("Positive")
-elif num == 0:
-    print("Zero")
+code =65
+
+if code >= 90:
+    print("Grade A")
+elif code >= 75:
+    print("Grade B")
+elif code >=50:
+    print("Grade c")
 else:
-    print("Negative")
+    print("Failure ")
